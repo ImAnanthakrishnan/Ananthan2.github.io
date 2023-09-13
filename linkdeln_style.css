@@ -108,6 +108,9 @@ li,p{
    
 }
 /*leftside-content*/
+.main1{
+    max-width:1519px;
+}
 .main{
     display: flex;
     
